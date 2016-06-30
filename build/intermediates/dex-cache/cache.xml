@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_2675e8662a41c87b5913f05bfa74cc7e0afc3d7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="8cb04f788d06daf97cdb3b917021c036db84af5c">
+        <dex dex="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d2088b3625380d41d7fac5894bb3652e9a32ec0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.2.2_8cfdce37c0232d7c2d51040cef007eb9f9665163\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_0358d5c55f2b0ff912288cf7bb690ee5dec7a5df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.15_a946a82ec842de081ec4b064709be650c71c3d85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_22265ab61dbcdd5feb73204f21067cb5b80c9c9c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="0351c3015d7337d1cdb4f7638637436cdde01d82">
+        <dex dex="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f8464663dbe63aa407ee553ee8867dc7154da07e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Student\Documents\Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_5c6bb025f782639ab19940edb81770b50f025088\classes.dex" />
+    </item>
+
+</items>
